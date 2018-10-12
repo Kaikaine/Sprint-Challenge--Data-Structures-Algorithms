@@ -44,3 +44,4 @@ class BinarySearchTree:
         max_value = current.value
       current = current.right
     return max_value
+
